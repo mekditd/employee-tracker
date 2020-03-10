@@ -12,7 +12,7 @@ const connection = mysql.createConnection({
   user: "root",
 
   // Your password
-  password: "P@ssword!",
+  password: process.env.DB_PASSWORD,
   database: "employee_db"
 });
 
