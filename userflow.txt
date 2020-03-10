@@ -1,0 +1,88 @@
+//============== Main Question ===============
+// What would you like to do?
+    // add
+    // view
+    // update
+    // exit
+
+//================== Add =====================
+// Please chose which you want to add too
+    // Employee
+    // Role
+    // Department
+    // Back
+
+//====Employee====
+    //input id
+    //input first_name
+    //input last_name
+    //input manager_id
+    //input role_id
+
+    //save into table
+
+//====Role====
+    //input id
+    //input title
+    //input salary
+    //input department_id
+
+    //save into table
+
+//====Department===
+    //input id
+    //input name
+        //ex sales, accounting
+    //save into table
+
+//=================== View ===================
+// Please chose which you want to add too
+    // Employee
+    // Role
+    // Department
+
+//====== Employee =====
+    // pull data from table
+    //SELECT * FROM 
+
+//======= Role =======
+    // pull data from table
+    //SELECT * FROM 
+
+//====== Department =====
+    // pull data from table
+    //SELECT * FROM 
+
+
+//=================== update =================
+// Please chose which you want to add too
+    // Employee
+    // Role
+    // Department
+
+//====Employee====
+    // give list of employees
+         // choose name
+            // choose what to update
+                // update
+                    // save to table
+
+//====Role====
+    // get list of role
+        // choose role
+            // update
+                // save to table
+
+//====Department====
+    // get list of department
+        // choose name
+            // choose what to update
+                // update
+                    // save to table
+
+
+
+
+//=============BONUS==============
+// update employee managers
+// delete departments, roles, employees,
