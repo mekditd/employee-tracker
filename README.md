@@ -20,8 +20,8 @@
 As a business owner
 I want to be able to view and manage the departments, roles, and employees in my company
 So that I can organize and plan my business
-```
 
+```
  <img src="./Assets/employee-tracker.gif" height="400" alt="Screenshot"/> 
 
  <img src="./Assets/schema.png" height="400" alt="Screenshot"/> 
