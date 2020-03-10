@@ -1,4 +1,4 @@
-# Employee Management System
+# Employee Tracker
 
 ## A command-line application that at a minimum allows the user to:
 
